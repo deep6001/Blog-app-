@@ -70,9 +70,9 @@ export default function App() {
         <Route
           path="/post/:id"
           element={
-            <PrivateRoute>
+            
               <Post />
-            </PrivateRoute>
+  
           }
         />
 
