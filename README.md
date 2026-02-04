@@ -404,13 +404,6 @@ Description
 </table>
 
 
-### Request Examples
-
-<details>
-<summary><b>POST /api/auth/register</b></summary>
-
-</details>
-
 ---
 
 ## 🔒 Security Features
