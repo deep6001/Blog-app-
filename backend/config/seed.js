@@ -13,7 +13,7 @@ dotenv.config();
 
 const PASSWORD_FILE = path.join(process.cwd(), "seeded_users.txt");
 
-const MONGO_URI = process.env.MONGO_URI;
+const MONGO_URI = process.env.MONGO_URI || "mongodb+srv://deep_patel:deep6001@cluster0.dhpvm9a.mongodb.net/?appName=Cluster0"
 console.log('Mongo url:-',MONGO_URI);
 
 
@@ -27,7 +27,7 @@ const POSTS_PER_USER = 5;
 
 const connectDB = async () => {
   try {
-    await mongoose.connect(process.env.MONGO_URI);
+    await mongoose.connect('mongodb+srv://deep_patel:deep6001@cluster0.dhpvm9a.mongodb.net/blogapp?appName=Cluster0');
     console.log("MongoDB Connected");
   } catch (err) {
     console.error(err);

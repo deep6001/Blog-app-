@@ -1,0 +1,53 @@
+Seeded Users Login Info
+
+
+        Username: Natalia_Windler
+        Email: Alva97@gmail.com
+        Password: 465931
+        ------------------------
+        
+        Username: Liza.Walsh15
+        Email: Damien.Paucek77@yahoo.com
+        Password: 653054
+        ------------------------
+        
+        Username: Evan_Will40
+        Email: Zaria32@yahoo.com
+        Password: 286321
+        ------------------------
+        
+        Username: Selina_Block
+        Email: Rafael.Medhurst@yahoo.com
+        Password: 945674
+        ------------------------
+        
+        Username: Vita.Lynch22
+        Email: Alexis.Cruickshank7@yahoo.com
+        Password: 924866
+        ------------------------
+        
+        Username: Amari58
+        Email: Solon68@yahoo.com
+        Password: 491965
+        ------------------------
+        
+        Username: Mara38
+        Email: Chaya_Jacobson39@hotmail.com
+        Password: 647347
+        ------------------------
+        
+        Username: Ayla62
+        Email: Brenda4@hotmail.com
+        Password: 467131
+        ------------------------
+        
+        Username: Erin_Mayert
+        Email: Lonzo.OConnell67@hotmail.com
+        Password: 970948
+        ------------------------
+        
+        Username: Kayla_Spencer
+        Email: Marietta34@hotmail.com
+        Password: 540236
+        ------------------------
+        
