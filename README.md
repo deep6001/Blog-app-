@@ -540,23 +540,6 @@ Content sanitization
 
 ---
 
-## 📸 Screenshots
-
-<div>
-
-### 🏠 Home Page
-> Clean, modern interface showcasing all blog posts
-
-### ✍️ Rich Text Editor
-> QuillJS editor with formatting toolbar
-
-### 👤 User Dashboard
-> Manage your posts with ease
-
-### 🔐 Authentication
-> Secure login and registration
-
-</div>
 
 ## 📝 License
 
