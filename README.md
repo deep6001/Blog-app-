@@ -399,11 +399,6 @@ Description
 <td style="border:1px solid #e5e7eb;">Delete own post (protected)</td>
 </tr>
 
-<tr style="background-color:#fafafa;">
-<td style="border:1px solid #e5e7eb;"><code>GET</code></td>
-<td style="border:1px solid #e5e7eb;"><code>/api/posts/author/:author</code></td>
-<td style="border:1px solid #e5e7eb;">Search posts by author</td>
-</tr>
 
 </tbody>
 </table>
@@ -575,6 +570,7 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 - GitHub: [@deep6001](https://github.com/deep6001)
 - Repository: [Blog-app-](https://github.com/deep6001/Blog-app-)
+- Live URL :-https://blog-app-x5td.vercel.app/
 
 ---
 
