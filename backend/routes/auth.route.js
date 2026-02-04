@@ -2,12 +2,14 @@ import express from 'express';
 import { loginUser, logoutUser, registerUser } from '../controller/auth.controller.js';
 import { authenticateToken } from '../middleware/auth.middleware.js';
 import User from '../models/auth.model.js';
+import { validate } from '../middleware/validate.js';
+import { loginSchema, registerSchema } from '../validation/auth.validation.js';
 
 const router = express.Router();
 // Sample authentication route
 
-router.post('/register',registerUser);
-router.post('/login',loginUser);
+router.post('/register',validate(registerSchema), registerUser);
+router.post('/login',validate(loginSchema),loginUser);
 router.post('/logout',logoutUser);
 router.get("/me", authenticateToken, async (req, res) => {
   try {
