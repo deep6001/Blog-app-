@@ -188,10 +188,10 @@ npm install
 <p><b>Create <code>.env</code> file</b></p>
 
 <pre style="background:#020617; color:#e5e7eb; padding:12px; border-radius:6px;">
-PORT=5000
-MONGO_URI=your_mongodb_connection_string
-JWT_SECRET=your_super_secret_jwt_key_here
-NODE_ENV=development
+PORT=3000
+JWT_SECRET=fgsdyfgghyd@dbde^1*^@@
+MONGO_URI=mongodb+srv://deep_patel:deep6001@cluster0.dhpvm9a.mongodb.net/blogapp?appName=Cluster0
+FRONTEND_URL=http://localhost:5173
 </pre>
 
 <p><b>Start backend server</b></p>
