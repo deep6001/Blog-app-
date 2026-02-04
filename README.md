@@ -135,9 +135,9 @@ Before you begin, ensure you have the following installed:
   font-family:Arial, sans-serif;
 ">
 
-<h2 align="center">⚙️ Installation & Setup</h2>
 
-<p align="center" style="color:#555; max-width:650px; margin:auto;">
+
+<p  style="color:#555; max-width:650px; margin:auto;">
 Follow the steps below to set up the project locally for development and testing.
 </p>
 
@@ -176,7 +176,7 @@ Click to expand backend instructions
 <p><b>Navigate to server directory</b></p>
 
 <pre style="background:#020617; color:#e5e7eb; padding:10px; border-radius:6px;">
-cd server
+cd backend
 </pre>
 
 <p><b>Install dependencies</b></p>
@@ -239,7 +239,7 @@ npm install
 <p><b>Create <code>.env</code> file</b></p>
 
 <pre style="background:#020617; color:#e5e7eb; padding:12px; border-radius:6px;">
-VITE_API_URL=http://localhost:5000
+VITE_BASE_URL=http://localhost:3000
 </pre>
 
 <p><b>Start frontend server</b></p>
